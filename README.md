@@ -1,8 +1,8 @@
 # Digit span experiment
+*** IMPORTANT NOTE: This is a project conducted for the purposes of a cognitive psychology class. I am not a psychologist, researcher or expert in conducting experiments.***
 
 A short description about the project and/or client.
 
-NOTE: I'm not an expert and shown way is just how I tried 
 
 ## Getting Started
 
@@ -18,6 +18,44 @@ The things you need before running experiment.
 * [Jatos](https://www.jatos.org) (MindProbe connects to Jatos, Jatos delivers a database)
 * [Replit account](https://replit.com/) OR Python (optional)
 
+## Experiment methodology
+#### Participants
+* Participants in the study will be people between the ages of 18 and 65 who do not have any memory disorders (under the age of 18 you need to have consent)
+* The number of participants in the study should be at least 50 for the results to be accurate
+
+#### Preparation of the test
+- Prepare a list of digits/numbers that will be displayed on the test participant's screen
+- Each set will consist of 12 numbers
+- Each set will have a different length of digits
+  - one digit
+  - two digits
+  - three digits
+
+
+#### Preparation of participants
+- Introduction to the study, using on-screen messages
+- Instructing to prepare an adequate environment; removing possible distractors
+- Asking them to fill out a simple metric
+- Informing them of the estimated duration of the survey
+- Asking participants not to write down the numbers displayed
+
+
+#### Conducting the survey:
+- Displaying each of the 3 prepared sets sequentially with 1.5 seconds to remember
+- Displaying successively each of the 3 prepared sets with 4 seconds to memorize time
+- After each set is displayed, there will be a short fifteen second pause
+- Participants will be asked to memorize the displayed digits/numbers in the correct order
+
+#### Analysis of the results
+- Calculation of the correctness and similarity of the answers for each number (using levenshtein distance)
+- The results will be statistically analyzed to determine the veracity of the hypotheses posed
+
+
+## Hypothesis
+- Numbers with fewer digits will be remembered more correctly than numbers with more digits.
+- The average correctness of number memorization will be 70%, with a standard deviation of 20% in both directions.
+<!-- The number display time (1.5 s or 4 s) will not have a significant effect on the correctness of number memorization.
+ -->
 
 ## Usage
 
