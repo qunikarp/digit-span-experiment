@@ -1,5 +1,5 @@
 # Digit span experiment
-*** IMPORTANT NOTE: This is a project conducted for the purposes of a cognitive psychology class. I am not a psychologist, researcher or expert in conducting experiments.***
+***IMPORTANT NOTE: This is a project conducted for the purposes of a cognitive psychology class. I am not a psychologist, researcher or expert in conducting experiments.***
 
 A short description about the project and/or client.
 
@@ -57,15 +57,20 @@ The things you need before running experiment.
 <!-- The number display time (1.5 s or 4 s) will not have a significant effect on the correctness of number memorization.
  -->
 
+## Specific hypotheses
+- Subjects will be more likely to correctly memorize numbers with fewer digits than numbers with more digits.
+- The correctness of number memorization will depend on the difficulty level of the task, so the easier the task, the higher the correctness of number memorization. The average correctness of memorizing numbers in the test will be 70%, and the standard deviation will be 20%.
+<!-- - There will be no significant difference in the correctness of number memorization depending on the time of the number display, 1.5 s or 4 s, because the accuracy of the working memory time of numbers will not be affected by such short intervals. -->
+
 ## Usage
 
-#### 1.0 Running experiment locally 
+#### 1. Running experiment locally 
 ```
 $ Download OpenSesame and import digitspan.osepx
 $ Run the experiment pressing by "CTRL+R"
 ```
 
-#### 1.1 Running experiment on web
+#### 1. Running experiment on web
 ```
 $ Open OpenSesame and import digitspan.osepx 
 $ open the 'Tools' and 'OSWeb'
@@ -86,7 +91,7 @@ $ combine multiple .csv into one
 $ prepare the .csv for statistics
 ```
 
-#### Statistics
+#### 3. Statistics
 ```
 $ Open JASP and import the .csv file
 $ Follow the tutorial from provided link in Additional Documentation
@@ -98,4 +103,9 @@ $ Follow the tutorial from provided link in Additional Documentation
 * [youtube: Creating a psychology experiment with OpenSesame 3.1](https://www.youtube.com/watch?v=FCXcnAv9aMA&t)
 * [youtube: OpenSesame 3.1 tutorial: Cats, Dogs, and Capybaras](https://www.youtube.com/watch?v=ICa0vPoYrYw&t=)
 * [youtube: One-Way Between Subjects ANOVA Using JASP](https://www.youtube.com/watch?v=2jY1eM6BKIw)
+
+## Bibliography: 
+- Baddeley, A. D., Thomson, N., & Buchanan, M. (1975). Word length and the structure of short-term memory. Journal of Verbal Learning and Verbal Behavior, 14(6), 575-589. doi:10.1016/s0022-5371(75)80045-4 
+- Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. Psychological Review, 63(2), 81-97. doi:10.1037/h0043158  
+
 
