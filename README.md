@@ -20,6 +20,8 @@ The things you need before running experiment.
 * [Jatos](https://www.jatos.org) (MindProbe connects to Jatos, Jatos delivers a database)
 * [Replit account](https://replit.com/) OR Python (optional)
 
+## <details><summary>Experiment in-depth explanation</summary>
+  
 ## Experiment methodology
 #### Participants
 * Participants in the study will be people between the ages of 18 and 65 who do not have any memory disorders (under the age of 18 you need to have consent)
@@ -63,6 +65,8 @@ The things you need before running experiment.
 - Subjects will be more likely to correctly memorize numbers with fewer digits than numbers with more digits.
 - The correctness of number memorization will depend on the difficulty level of the task, so the easier the task, the higher the correctness of number memorization. The average correctness of memorizing numbers in the test will be 70%, and the standard deviation will be 20%.
 <!-- - There will be no significant difference in the correctness of number memorization depending on the time of the number display, 1.5 s or 4 s, because the accuracy of the working memory time of numbers will not be affected by such short intervals. -->
+  
+</details>
 
 ## Usage
 
