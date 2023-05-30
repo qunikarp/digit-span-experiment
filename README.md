@@ -1,5 +1,3 @@
-_work in progress_
-
 # Digit span experiment
 ***IMPORTANT NOTE: This is a project conducted for the purposes of a cognitive psychology class. I am not a psychologist, researcher or expert in conducting experiments.***
 
